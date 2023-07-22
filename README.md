@@ -1,6 +1,6 @@
 # Chicken-Disease-Classificatin-Project
 
-### workflows
+### Workflows
 
 1. Update config.yaml
 2. update secrets.yaml [optional]
@@ -11,4 +11,12 @@
 7. update the pipeline
 8. update the main.py
 9. update the dvc.yaml
+
+
+# How to Run?
+
+## STEPS:
+### Clone the repository
+
+https://github.com/imsiraj/Chicken-Disease-Classificatin-Project/
 
